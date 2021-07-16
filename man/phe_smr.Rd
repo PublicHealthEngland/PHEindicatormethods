@@ -93,6 +93,8 @@ df \%>\%
 \seealso{
 Other PHEindicatormethods package functions: 
 \code{\link{phe_dsr}()},
+\code{\link{phe_funnel_significance}()},
+\code{\link{phe_funnels}()},
 \code{\link{phe_isr}()},
 \code{\link{phe_life_expectancy}()},
 \code{\link{phe_mean}()},
